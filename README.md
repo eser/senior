@@ -1,8 +1,10 @@
-# [senior](https://github.com/eserozvataf/senior)
+# 🗃 [senior](https://github.com/eserozvataf/senior)
 
+[![build status][build-image]][build-url]
 [![npm version][npm-image]][npm-url]
 [![npm download][download-image]][npm-url]
 [![dependencies][dep-image]][dep-url]
+[![coverage status][coverage-image]][coverage-url]
 [![license][license-image]][license-url]
 
 
@@ -67,10 +69,14 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 [Visit my patreon profile at patreon.com/eserozvataf](https://www.patreon.com/eserozvataf)
 
 
+[build-image]: https://travis-ci.org/eserozvataf/senior.svg?branch=master
+[build-url]: https://travis-ci.org/eserozvataf/senior
 [npm-image]: https://img.shields.io/npm/v/senior.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/senior
 [download-image]: https://img.shields.io/npm/dt/senior.svg?style=flat-square
 [dep-image]: https://img.shields.io/david/eserozvataf/senior.svg?style=flat-square
 [dep-url]: https://github.com/eserozvataf/senior
+[coverage-image]: https://coveralls.io/repos/eserozvataf/senior/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/r/eserozvataf/senior?branch=master
 [license-image]: https://img.shields.io/npm/l/senior.svg?style=flat-square
 [license-url]: https://github.com/eserozvataf/senior/blob/master/LICENSE

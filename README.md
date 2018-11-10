@@ -76,7 +76,7 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 [download-image]: https://img.shields.io/npm/dt/senior.svg?style=flat-square
 [dep-image]: https://img.shields.io/david/eserozvataf/senior.svg?style=flat-square
 [dep-url]: https://github.com/eserozvataf/senior
-[coverage-image]: https://coveralls.io/repos/eserozvataf/senior/badge.svg?branch=master
-[coverage-url]: https://coveralls.io/r/eserozvataf/senior?branch=master
+[coverage-image]: https://codecov.io/gh/eserozvataf/senior/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/eserozvataf/senior
 [license-image]: https://img.shields.io/npm/l/senior.svg?style=flat-square
 [license-url]: https://github.com/eserozvataf/senior/blob/master/LICENSE

@@ -8,6 +8,12 @@
 [![license][license-image]][license-url]
 
 
+## Update (July 2022)
+
+DEPRECATED in favor of [hex](https://github.com/eserozvataf/hex).
+See https://github.com/eserozvataf/hex for details.
+
+
 ## What is the Senior?
 
 Senior is a lightweight plugin host which allows npm modules to be installed and uninstalled on demand.
